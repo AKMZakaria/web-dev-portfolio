@@ -1,0 +1,76 @@
+.head{
+    display: flex;
+align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+/*.port{
+    margin-right: 50px;
+
+}
+.port1{
+    margin-right: 50px;
+
+}*/
+header{
+    margin-top: 50px;
+
+}
+.mary{
+    font-size: 45px;
+    font-weight:800;
+}
+.r{
+    color: #FD6E0A;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav li a{
+    text-decoration: none;
+}
+.dark2{
+    color: rgba(71, 71, 71, 1);
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.btn1{
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-weight: 700px;
+    color: white;
+    padding: 18px 35px;
+    font-size: 20px;
+    border: none;
+
+}
+.banner-greet{
+    font-size: 45px;
+    font-weight: 600px;
+}
+
+.banner-title{
+    font-size: 85px;
+    font-weight: bold;
+}
+.pic{
+    height: 676px;
+    width: 584px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+}
+.banner-content{
+    width: 585px;
+    height: 356px;
+}
+.h{
+    background-image: url('images/developer.png'), url('/images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
